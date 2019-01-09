@@ -1,4 +1,3 @@
-dabbler is an open source implementation of the dabble.me service. I didnt want
-to pay so I decided to clone the service.
+Dabbler is an open source implementation of dabble.me.
 
 01/09/2019
