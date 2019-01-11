@@ -8,6 +8,7 @@ django = "*"
 black = "*"
 django-crispy-forms = "*"
 whitenoise = {extras = ["brotli"], version = "*"}
+"psycopg2" = "*"
 
 [dev-packages]
 
